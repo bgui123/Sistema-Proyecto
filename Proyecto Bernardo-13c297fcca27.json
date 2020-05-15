@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-bernardo",
+  "private_key_id": "13c297fcca27bd77c9677f9c9fbac37f97a3016d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPSkYgxynqL3nF\n7n/tm9i3CD+QFyxw+Dbp0gHvaLOAsat2eSDarHW8zASD3BKAJs+Be6dogGH1i0Or\no3XcgyrTP8qBeyJgpPlvxlpzljMPGati5rGmt0S0URTWOT/8EojcEgGlPaL18H03\n0r1tV5iY3/39ymri7BeKhzC1Wpt2PR7sl3BqQApbZHrFJ7IhdoZUFKiIsucxJaBg\ncfwbYIOWcMGEBH2k1DNjsF3GutGGeZmdRlL4fkx8OlQOobcvIsA+GgBTeS/dXTxH\nxSF2o9C1BFtzp5sanKuwha60zJS1krOQjxKDHc9GOWFFrf4Q1tWBuX8jCJYVPBQ9\n3+rLK15RAgMBAAECggEAA/xv1jxYIAfFUlJjzGk6FoBkHUbpwXREOc2x6FYwLSe0\nIoH03iRvS4rc4sqp2JcLzXkyQ2PT5cvjnGgaEKH0/GaxRFgXsRrRxhBdZosCfVxs\nUj5i6YV+Y6pAQ0PZMfLVjBKzqUQ9TuxrXVTPWHX3/KO5ifh6L/kboArJ+feM7NV0\niF8M9e+Q8m8rixpupP2ohLpV43xfu+NvKZIZ3imFfNQtOpgauQKR8KQZGMSwQZOr\nd+vKtjZrfDS45ECvccRInrnC8yluvRRGzMhJAL4w/yS7UhSnZiiK/4xdxjQ+BwC/\nxudl4C3twFR0KDXwS7uVZwmjut2mFlWKayBWqGFZSQKBgQDFA8zkol6A/tjhqpj8\ndMXI/TgRQzeW7fD8PRB/cfID2sB0mu2bD3ftbMfnghfr+Yt85H6YpvSss4SuJlCE\njoVkU9KjAM4sjnkk464Li7Joylurwh+UncprsQewJu58EuTJf3r7tRklD8rdRlVI\nu1xq5ibdk6RDRxoYTFkO0S8iqQKBgQC6ML5sZjLj6eUZq8DbWkHpx7VPYoLq++/z\ns7YY+we6FJXgS0hfhaUoSf7FzHfs3h6sSWRYf8B2/g6SYBVIHj1LND4/cTC9e8mf\nOESKg3rpdUW2yxvNAz6qfhAo2GRorK4w4t+1e+snUvXhcLQILJSsV23NzwS0iegY\nq69vdIRPaQKBgHWI8OGtpGecolLu7doe6CgiOSLDURSv20cAPylpFxMJnCt0ijAp\nqEhyz0fkKtVSyM63mncDk5C8gHlMzlhmllnmUBGC131peghx9FFbBBLUNqBfbWvC\nPxLESGvkrf5DX05+ySYFQn0D0Oj1nseHT3lO2PzzqdmhP4YjdjYKwe4RAoGAApOo\nHwHvFF5pUEijO6XtIZok9TtMyonAEWRcUc4vljCwvlDsaH4GAh+8CerBgiK00/eU\nDvF9rWfotbfks4HPoVnQvroHTagH608xC6W0LsTzuQrokJbJ6DwkZxxPj29MXdrV\n88IKSBoK0xrnMvHDAPuYxm9mBkWeU7EUlXtMVXkCgYEAg5koJF5vBCI9HPcf44dS\nW996tomRbTpJolvlwp7xtCVVmxUUUfgS2jPmZfUsJuKlxiIASSaaP9Q1++N75Vl3\nfbPM4fCQYxP//p5NkrqiSTZwV0MnzVSI6NaQP+YR4eJFV1kDWzHVVL8s4V3VXv5m\nygd6La5BgqGcbWiBJCRkMmA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sistema-bernardo@proyecto-bernardo.iam.gserviceaccount.com",
+  "client_id": "115207091361331460438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sistema-bernardo%40proyecto-bernardo.iam.gserviceaccount.com"
+}
